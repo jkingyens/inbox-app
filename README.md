@@ -24,7 +24,7 @@ You can download a binary version for OS X here: [Inbox.app.zip](https://github.
 ```
 npm install
 npm run pack-osx
-cp -r Inbox-darwin-x64/Inbox.app /Applications
+cp -r dist/Inbox-darwin-x64/Inbox.app /Applications
 ```
 
 ### Windows 
